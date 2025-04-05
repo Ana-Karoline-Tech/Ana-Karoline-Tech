@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Ana-Karoline-Tech 😁
+## Bem-vindo(a) ao perfil da Ana-Karoline-Tech 👨🏼‍💻
 
  <div>
    <a href="https://github.com/Ana-Karoline-Tech">
@@ -13,4 +13,11 @@
 </div>
  
 <br>
+
+
+### Quer me encontrar em outras redes? Veja meu LinkedIn abaixo.
+ 
+<div> 
+ <a href="https://www.linkedin.com/in/ana-karoline-silva-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
  
