@@ -69,6 +69,14 @@ Estou dedicando meus estudos para entrar na área de Dados. Por enquanto, ainda 
       <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" />
       <br><strong>Java</strong>
     </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="SQL" />
+      <br><strong>SQL</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="Power BI" />
+      <br><strong>Power BI</strong>
+    </td>
    </tr>
 </table>
 
