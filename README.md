@@ -49,8 +49,6 @@ Sou desenvolvedora em evolução, apaixonada por tecnologia e atualmente estou m
 
 ### 🚀 O que estudarei futuramente (foco em Dados)
 
-Estou dedicando meus estudos para entrar na área de Dados. Por enquanto, ainda não tenho projetos públicos com essas tecnologias, mas elas já fazem parte da minha rotina de aprendizado:
-
 <table align="center">
   <tr>
     <td align="center" width="100">
