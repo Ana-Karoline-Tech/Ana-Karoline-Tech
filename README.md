@@ -1,82 +1,44 @@
 ## Olá! Eu sou a Ana Karoline 👩🏼‍💻
 
-Sou desenvolvedora em evolução, apaixonada por tecnologia e atualmente estou me preparando para migrar para a **área de Dados**. Gosto de unir lógica, criatividade e propósito para construir soluções que realmente ajudam pessoas e negócios.
+Sou desenvolvedora em evolução, apaixonada por tecnologia e atualmente estou me preparando para migrar para a **área de Dados**. Gosto de unir lógica, criatividade e propósito para construir soluções inovadoras.
 
-<div>
+<div align="center">
    <a href="https://github.com/Ana-Karoline-Tech">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ana-Karoline-Tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Karoline-Tech&layout=compact&langs_count=6&theme=tokyonight"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ana-Karoline-Tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Karoline-Tech&layout=compact&langs_count=6&theme=tokyonight"/>
+   </a>
 </div>
 
 ---
 
 ### 💻 Tecnologias que estou estudando e uso no dia a dia
 
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-      <br>Node.js
-    </td>
-   </tr>
-</table>
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+</div>
 
 <br>
 
 ### 🚀 O que estudarei futuramente (foco em Dados)
 
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=py" width="50" height="50" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
-      <br><strong>Docker</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS" />
-      <br><strong>Tailwind CSS</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" />
-      <br><strong>Java</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="SQL" />
-      <br><strong>SQL</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="Power BI" />
-      <br><strong>Power BI</strong>
-    </td>
-   </tr>
-</table>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</div>
 
 > ✨ *Em breve meus primeiros projetos de Dados estarão por aqui!*
 
@@ -86,7 +48,7 @@ Sou desenvolvedora em evolução, apaixonada por tecnologia e atualmente estou m
 
 ### 🌐 Onde me encontrar
 
-<div> 
+<div align="center"> 
  <a href="https://www.linkedin.com/in/ana-karoline-silva-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/anakaroline.tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
